@@ -1,5 +1,6 @@
 package example;
 
+
 import example.ConcreteStrategies.CreditCardPayment;
 import example.ConcreteStrategies.CryptoPayment;
 import example.ConcreteStrategies.PayPalPayment;
